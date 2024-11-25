@@ -1,0 +1,3 @@
+/*3. Por que é importante escolher nomes descritivos para variáveis em JavaScript? Qual é o impacto de escolher nomes inadequados? 
+
+Escolher nomes descritivos para variáveis é uma prática fundamental para escrever código de alta qualidade. Ao investir um pouco mais de tempo na escolha de nomes claros e concisos, você estará contribuindo para a legibilidade, a manutenção e a colaboração em seus projetos.*/

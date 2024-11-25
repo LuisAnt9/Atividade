@@ -1,0 +1,3 @@
+/*2. O que é tipagem dinâmica em JavaScript? Como é que ela difere da tipagem estática? 
+
+Em JavaScript, a tipagem dinâmica significa que o tipo de uma variável é determinado em tempo de execução, ou seja, enquanto o código está sendo executado. Isso quer dizer que você não precisa declarar explicitamente o tipo de uma variável ao declará-la. Já a Tipagem estática, por outro lado, exige que você declare o tipo de uma variável antes de usá-la. Isso é comum em linguagens como C++ e Java.*/
